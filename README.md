@@ -32,6 +32,7 @@ The dataset includes employee-level HR data such as:
 * Education field
 * Age group distribution
 
+---
 Dataset file:
 
 [HR Dataset](HR%20Data.xlsx)
@@ -43,11 +44,10 @@ Dataset file:
 
 ---
 
+---
 ## Dashboard Preview
 
-## Tableau Dashboard
-[Download Tableau Dashboard](HR%20Analytics%20Dashboard.twbx)
-
+![HR Dashboard](Dashboard.png)
 ---
 
 ## Key Metrics
